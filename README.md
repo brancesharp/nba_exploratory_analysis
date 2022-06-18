@@ -1,2 +1,2 @@
 # nba_exploratory_analysis
-EDA of NBA Data
+Exploratory Data Analysis of NBA Data using pandas and seaborn
